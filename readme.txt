@@ -1,3 +1,5 @@
 Git is a version control system.
-Git is free software distributed under the GPL.
-123456789
+
+锦洲小学网络研修工作总结
+
+   为提升全市教师队伍发展规划以及中小学、幼儿园教师专业素养提升需求，市教育局联合中国教师研修网，在全省邀请了优质、精良的专家及课程资源，组织实施“石首市2020念教育系统干部教师
