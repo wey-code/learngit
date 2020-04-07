@@ -1,1 +1,5 @@
-this is master
+<<<<<<< HEAD
+this is branch1
+=======
+this is branch1
+>>>>>>> feature1
